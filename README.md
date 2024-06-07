@@ -1,1 +1,2 @@
-# Codsoft_LandingPage
+# CODSOFT
+LANDING PAGE
